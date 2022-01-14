@@ -1,50 +1,52 @@
-{
-  "cookies": [
-    {
-      "id": "0000000000000000",
-      "nome": "AdriasOnline",
-      "dominio": "www.adriasonline.it",
-      "durata": "Session",
-      "tipologia": "First Party",
-      "categoria": "Functional",
-      "descrizione": "This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor."
-    },
-    {
-      "id": "11111111111111",
-      "nome": "__cfduid",
-      "dominio": "preferencechoice.com",
-      "durata": "20 Days",
-      "tipologia": "Third Party",
-      "categoria": "Functional",
-      "descrizione": "Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information."
-    },
-    {
-      "id": "2222222222222",
-      "nome": "OneTrustConsent",
-      "dominio": "www.onetrust.com",
-      "durata": "Session",
-      "tipologia": "First Party",
-      "categoria": "Marketing",
-      "descrizione": "This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor."
-    },
-    {
-      "id": "3333333333333",
-      "nome": "_ga",
-      "dominio": "google-analytics.com",
-      "durata": "2 Years",
-      "tipologia": "Third Party",
-      "categoria": "Analytics",
-      "descrizione": "Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information."
-    },
-    {
-      "id": "44444444444444",
-      "nome": "aam_uuid",
-      "dominio": "adobe.com",
-      "durata": "1 month",
-      "tipologia": "Third Party",
-      "categoria": "Marketing",
-      "descrizione": "Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information."
-    }
-  ],
-  "version": 13132123123
-}
+[
+  {
+    "cookies": [
+      {
+        "id": "0000000000000000",
+        "nome": "AdriasOnline",
+        "dominio": "www.adriasonline.it",
+        "durata": "Session",
+        "tipologia": "First Party",
+        "categoria": "Functional",
+        "descrizione": "This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor."
+      },
+      {
+        "id": "11111111111111",
+        "nome": "__cfduid",
+        "dominio": "preferencechoice.com",
+        "durata": "20 Days",
+        "tipologia": "Third Party",
+        "categoria": "Functional",
+        "descrizione": "Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information."
+      },
+      {
+        "id": "2222222222222",
+        "nome": "OneTrustConsent",
+        "dominio": "www.onetrust.com",
+        "durata": "Session",
+        "tipologia": "First Party",
+        "categoria": "Marketing",
+        "descrizione": "This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor."
+      },
+      {
+        "id": "3333333333333",
+        "nome": "_ga",
+        "dominio": "google-analytics.com",
+        "durata": "2 Years",
+        "tipologia": "Third Party",
+        "categoria": "Analytics",
+        "descrizione": "Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information."
+      },
+      {
+        "id": "44444444444444",
+        "nome": "aam_uuid",
+        "dominio": "adobe.com",
+        "durata": "1 month",
+        "tipologia": "Third Party",
+        "categoria": "Marketing",
+        "descrizione": "Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information."
+      }
+    ]
+  },
+  { "version": 13132123123 }
+]
